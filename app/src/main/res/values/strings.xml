@@ -4,4 +4,5 @@
     <string name="dados_de_login">Dados de login</string>
     <string name="senha">Senha</string>
     <string name="aceite_os_termos">Aceite os termos</string>
+    <string name="entrar">Entrar</string>
 </resources>
